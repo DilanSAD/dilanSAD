@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/DilanSAD](https://github.com/DilanSAD)
 
-- 📫 Cómo llegar a mí *[https://www.linkedin.com/in/dilan-acosta/](https://www.linkedin.com/in/dilan-acosta/)
+- 📫 Cómo llegar a mí [https://www.linkedin.com/in/dilan-acosta/](https://www.linkedin.com/in/dilan-acosta/)
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="left">Lenguajes y herramientas que manejo:</h3>
 
 <p align="left"> 
   
